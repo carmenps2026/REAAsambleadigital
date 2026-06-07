@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260606190830S6E3YW</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202606061908301QGVWZ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>ASAMBLEA DIGITAL</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Un espacio para la autonomía, la comunicación y la competencia digital en Educación Infantil.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Mª del Carmen Puertas Sevilla</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Centro de interés o temática: la asamblea.
+
+Nivel al que va dirigido: 5 años.
+
+Temporalización: anual.
+
+Materias implicadas: Área de Crecimiento en Armonía, Área de Descubrimiento y Exploración del Entorno y Área de Lenguajes: Comunicación y Representación.
+
+Idioma: Español.
+
+Descripción general: Creación de una asamblea digital por parte del alumnado de 5 años en un centro de difícil desempeño.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780748843353</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1780739487373-8ql0fm6ar</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780739487373-8ql0fm6ar</odePageId>
+      <odeBlockId>block-1780740715857-ahp4q4lio</odeBlockId>
+      <blockName></blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780739487373-8ql0fm6ar</odePageId>
+          <odeBlockId>block-1780740715857-ahp4q4lio</odeBlockId>
+          <odeIdeviceId>idevice-1780740715855-u9o34y76j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1069px;"><img src="{{context_path}}/content/resources/asamblea digital.jpg" title="Portada asamblea digital" width="1069" height="655" alt="Asamblea digital" />
+<figcaption class="figcaption"><span class="author">María del Carmen Puertas Sevilla</span>. <span class="title"><em>Portada asamblea digital</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Esta propuesta de innovación educativa nace con el objetivo de transformar una rutina tradicional (la asamblea)de un aula de <strong>5 años</strong>, en un <strong>entorno tecnológicamente enriquecido, interactivo y profundamente social</strong>. Lejos de plantear el uso de pantallas como un consumo pasivo, este proyecto sitúa al alumnado en el centro del proceso como <strong>creadores de contenido, comunicadores y compañeros solidarios</strong>.</p>
+<p>A través de dinámicas diarias apoyadas en soportes digitales (como tablets y la pizarra digital interactiva), se fomenta la <strong>alfabetización digital, la expresión creativa y la autorregulación</strong>.</p>
+<p>Para articular esta propuesta, se utiliza <strong>Genially</strong>, integrando de forma dinámica los ejes de nuestra rutina.</p>
+<ul>
+<li><strong>Interactividad visual</strong>: Los niños pueden "tocar" la pantalla y desencadenar acciones (mover su foto, activar sonidos, abrir menús de emociones), lo que resulta altamente motivador e intuitivo.</li>
+<li><strong>Gamificación y narrativa</strong>: Permite estructurar la asamblea como si fuera un juego (pasar de Semilla a Flor), adaptando el lenguaje técnico a metáforas visuales comprensibles para los 5 años.</li>
+<li><strong>Flexibilidad:</strong> Permite centralizar en un solo lugar fotos, grabaciones de voz y paneles de ayuda mutua, sirviendo tanto de soporte para la rutina diaria como de portafolio digital para la evaluación del grupo.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780740715855-u9o34y76j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1069px;\"><img src=\"{{context_path}}/content/resources/asamblea digital.jpg\" title=\"Portada asamblea digital\" width=\"1069\" height=\"655\" alt=\"Asamblea digital\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María del Carmen Puertas Sevilla</span>. <span class=\"title\"><em>Portada asamblea digital</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Esta propuesta de innovación educativa nace con el objetivo de transformar una rutina tradicional (la asamblea)de un aula de <strong>5 años</strong>, en un <strong>entorno tecnológicamente enriquecido, interactivo y profundamente social</strong>. Lejos de plantear el uso de pantallas como un consumo pasivo, este proyecto sitúa al alumnado en el centro del proceso como <strong>creadores de contenido, comunicadores y compañeros solidarios</strong>.</p>\n<p>A través de dinámicas diarias apoyadas en soportes digitales (como tablets y la pizarra digital interactiva), se fomenta la <strong>alfabetización digital, la expresión creativa y la autorregulación</strong>.</p>\n<p>Para articular esta propuesta, se utiliza <strong>Genially</strong>, integrando de forma dinámica los ejes de nuestra rutina.</p>\n<ul>\n<li><strong>Interactividad visual</strong>: Los niños pueden \"tocar\" la pantalla y desencadenar acciones (mover su foto, activar sonidos, abrir menús de emociones), lo que resulta altamente motivador e intuitivo.</li>\n<li><strong>Gamificación y narrativa</strong>: Permite estructurar la asamblea como si fuera un juego (pasar de Semilla a Flor), adaptando el lenguaje técnico a metáforas visuales comprensibles para los 5 años.</li>\n<li><strong>Flexibilidad:</strong> Permite centralizar en un solo lugar fotos, grabaciones de voz y paneles de ayuda mutua, sirviendo tanto de soporte para la rutina diaria como de portafolio digital para la evaluación del grupo.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780739494169-21bi0p95e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SEGURIDAD EN LA RED</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SEGURIDAD EN LA RED</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780739494169-21bi0p95e</odePageId>
+      <odeBlockId>block-1780739934974-dxlbygel8</odeBlockId>
+      <blockName>Enlace</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780739494169-21bi0p95e</odePageId>
+          <odeBlockId>block-1780739934974-dxlbygel8</odeBlockId>
+          <odeIdeviceId>idevice-1780739934970-koddk84k5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/Infografía seguridad en la red.jpg" title="Infografía Seguridad en la red" width="800" height="2000" alt="Infografía Seguridad en la red" />
+<figcaption class="figcaption"><span class="author">María del Carmen Puertas Sevilla</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><a href="https://canva.link/52yan8dd9sc6wc1" title="">https://canva.link/52yan8dd9sc6wc1</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780739934970-koddk84k5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/Infografía seguridad en la red.jpg\" title=\"Infografía Seguridad en la red\" width=\"800\" height=\"2000\" alt=\"Infografía Seguridad en la red\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María del Carmen Puertas Sevilla</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><a href=\"https://canva.link/52yan8dd9sc6wc1\" title=\"\">https://canva.link/52yan8dd9sc6wc1</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780739494169-21bi0p95e</odePageId>
+      <odeBlockId>block-1780746937178-nwhbkbhsd</odeBlockId>
+      <blockName>Sitio web</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780739494169-21bi0p95e</odePageId>
+          <odeBlockId>block-1780746937178-nwhbkbhsd</odeBlockId>
+          <odeIdeviceId>idevice-1780746937166-3x9kv6zqs</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="<div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%;  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;  border-radius: 8px; will-change: transform;">   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"     src="https://www.canva.com/design/DAHIrwdZ4sI/lgfWUiyOAhOtauwWO5G9KA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">   </iframe> </div> <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHIrwdZ4sI&#x2F;lgfWUiyOAhOtauwWO5G9KA&#x2F;view?utm_content=DAHIrwdZ4sI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Infografía Autismo Profesional Multicolor</a> by Carmen Puertas Sevilla" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780739670703-9tsewnsgq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIPCIÓN DEL PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780739670703-9tsewnsgq</odePageId>
+      <odeBlockId>block-1780741689165-2edugdxu2</odeBlockId>
+      <blockName></blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780739670703-9tsewnsgq</odePageId>
+          <odeBlockId>block-1780741689165-2edugdxu2</odeBlockId>
+          <odeIdeviceId>idevice-1780741689159-w9a7yxirb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final de esta propuesta es un <strong>Recurso Educativo Abierto (REA)</strong> titulado <strong>"La asamblea digital"</strong>, diseñado específicamente para el aula de <strong>5 años de Educación Infantil</strong>. Este recurso se ha desarrollado de manera íntegra a través de la herramienta <strong>Genially</strong>, aprovechando su potencial interactivo y visual para transformar la rutina del inicio del día en una experiencia de aprendizaje significativo.</p>
+<p>El diseño del producto responde de forma directa a las características reales de nuestro contexto de aula:</p>
+<ul>
+<li><strong>Centro de Difícil Desempeño</strong>: Al encontrarnos en un entorno de difícil desempeño, el alumnado suele tener un acceso muy limitado a la tecnología en sus hogares, lo que se traduce en una competencia digital inicial baja. Este REA se diseña precisamente como una herramienta de equidad e inclusión, garantizando que la escuela sea el espacio que democratice el acceso a una alfabetización digital de calidad desde la primera infancia.</li>
+<li><strong>Optimización del hardware (Pizarras ViewSonic)</strong>: El recurso está técnicamente optimizado para su uso en las nuevas pantallas digitales interactivas ViewSonic recién instaladas en el aula. Su gran formato y precisión táctil permiten que el alumnado interactúe con el "dedo mágico" cómodamente, potenciando su coordinación óculo-manual.</li>
+<li><strong>Accesibilidad Universal mediante Pictogramas</strong>: Aunque la competencia digital inicial del alumnado de 5 años es limitada, el Genially rompe las barreras de lectura y comprensión introduciendo un sistema de pictogramas en toda la interfaz. Estos apoyos visuales guían la navegación autónoma de los niños sin necesidad de que el docente interprete texto escrito.</li>
+<li><strong>Estructura del REA</strong>: La asamblea se organiza en paneles interactivos secuenciados mediante iconos y pictogramas donde los alumnos, de forma independiente, pueden:
+<ul>
+<li>Pasar lista digital arrastrando su propia fotografía.</li>
+<li>Expresar su estado emocional seleccionando el emoji correspondiente.</li>
+<li>Interactuar con contenidos creados por ellos mismos (reproducir audios de compañeros o ver fotos de sus proyectos).<br /></li>
+</ul>
+</li>
+</ul>
+<p>Al ser un REA, el producto no solo es una plantilla cerrada para nuestra clase, sino un recurso público, modular y editable que queda a disposición de la comunidad educativa, permitiendo a otros docentes adaptarlo a las necesidades de sus propias aulas de Infantil.</p>
+<figure class="exe-figure exe-media position-center license-CC-BY" style="width: 704px;" id="fig_800twnyxm"><video width="704" height="352" controls="controls" data-mce-fragment="1">
+<source src="{{context_path}}/content/resources/Visita guiada por la asamblea digital.mov" /></video>
+<figcaption class="figcaption"><span class="author">María del Carmen Puertas Sevilla</span>. <span class="title"><em>Visita guiada por la asamblea digital</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780741689159-w9a7yxirb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final de esta propuesta es un <strong>Recurso Educativo Abierto (REA)</strong> titulado <strong>\"La asamblea digital\"</strong>, diseñado específicamente para el aula de <strong>5 años de Educación Infantil</strong>. Este recurso se ha desarrollado de manera íntegra a través de la herramienta <strong>Genially</strong>, aprovechando su potencial interactivo y visual para transformar la rutina del inicio del día en una experiencia de aprendizaje significativo.</p>\n<p>El diseño del producto responde de forma directa a las características reales de nuestro contexto de aula:</p>\n<ul>\n<li><strong>Centro de Difícil Desempeño</strong>: Al encontrarnos en un entorno de difícil desempeño, el alumnado suele tener un acceso muy limitado a la tecnología en sus hogares, lo que se traduce en una competencia digital inicial baja. Este REA se diseña precisamente como una herramienta de equidad e inclusión, garantizando que la escuela sea el espacio que democratice el acceso a una alfabetización digital de calidad desde la primera infancia.</li>\n<li><strong>Optimización del hardware (Pizarras ViewSonic)</strong>: El recurso está técnicamente optimizado para su uso en las nuevas pantallas digitales interactivas ViewSonic recién instaladas en el aula. Su gran formato y precisión táctil permiten que el alumnado interactúe con el \"dedo mágico\" cómodamente, potenciando su coordinación óculo-manual.</li>\n<li><strong>Accesibilidad Universal mediante Pictogramas</strong>: Aunque la competencia digital inicial del alumnado de 5 años es limitada, el Genially rompe las barreras de lectura y comprensión introduciendo un sistema de pictogramas en toda la interfaz. Estos apoyos visuales guían la navegación autónoma de los niños sin necesidad de que el docente interprete texto escrito.</li>\n<li><strong>Estructura del REA</strong>: La asamblea se organiza en paneles interactivos secuenciados mediante iconos y pictogramas donde los alumnos, de forma independiente, pueden:\n<ul>\n<li>Pasar lista digital arrastrando su propia fotografía.</li>\n<li>Expresar su estado emocional seleccionando el emoji correspondiente.</li>\n<li>Interactuar con contenidos creados por ellos mismos (reproducir audios de compañeros o ver fotos de sus proyectos).<br /></li>\n</ul>\n</li>\n</ul>\n<p>Al ser un REA, el producto no solo es una plantilla cerrada para nuestra clase, sino un recurso público, modular y editable que queda a disposición de la comunidad educativa, permitiendo a otros docentes adaptarlo a las necesidades de sus propias aulas de Infantil.</p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY\" style=\"width: 704px;\" id=\"fig_800twnyxm\"><video width=\"704\" height=\"352\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"{{context_path}}/content/resources/Visita guiada por la asamblea digital.mov\" /></video>\n<figcaption class=\"figcaption\"><span class=\"author\">María del Carmen Puertas Sevilla</span>. <span class=\"title\"><em>Visita guiada por la asamblea digital</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780739670703-9tsewnsgq</odePageId>
+      <odeBlockId>block-1780744534929-063z70205</odeBlockId>
+      <blockName></blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780739670703-9tsewnsgq</odePageId>
+          <odeBlockId>block-1780744534929-063z70205</odeBlockId>
+          <odeIdeviceId>idevice-1780744534926-6p5nzaxzz</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780744534926-6p5nzaxzz" title="Índice asamblea digital" href="{{context_path}}/content/resources/Indice de la asamblea digital.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Indice de la asamblea digital.png" height="128" width="128" title="Índice asamblea digital" alt="Índice asamblea digital" titlelink="" author="María del Carmen Puertas Sevilla" authorlink="https://app.genially.com/editor/6a1b253098fc1bb473fb9678" license="CC0" licenselink="http://creativecommons.org/publicdomain/zero/1.0/deed"/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780744534926-6p5nzaxzz","img_0":{"img":"{{context_path}}/content/resources/Indice de la asamblea digital.png","thumbnail":"{{context_path}}/content/resources/Indice de la asamblea digital.png","title":"Índice asamblea digital","linktitle":"","author":"María del Carmen Puertas Sevilla","linkauthor":"https://app.genially.com/editor/6a1b253098fc1bb473fb9678","license":"CC0"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780739506173-6gzqqzam5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CURACIÓN DE CONTENIDOS</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780739506173-6gzqqzam5</odePageId>
+      <odeBlockId>block-1780740270405-ayxh6usjm</odeBlockId>
+      <blockName></blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780739506173-6gzqqzam5</odePageId>
+          <odeBlockId>block-1780740270405-ayxh6usjm</odeBlockId>
+          <odeIdeviceId>idevice-1780740270399-6eh55guh9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se ha realizado una doble curación de contenidos:</p>
+<ul>
+<li>Curación de contenidos para el alumnado de 5 años: <a href="https://www.symbaloo.com/home/mix/13eOcXMZQi" title="">https://www.symbaloo.com/home/mix/13eOcXMZQi</a></li>
+<li>Curación de contenidos para el docente: <a href="https://padlet.com/carmenps/asamblea-digital-infantil-curacion-de-contenidos-para-docent-nspq2j4hwry6ixsa" title="">https://padlet.com/carmenps/asamblea-digital-infantil-curacion-de-contenidos-para-docent-nspq2j4hwry6ixsa</a></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780740270399-6eh55guh9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se ha realizado una doble curación de contenidos:</p>\n<ul>\n<li>Curación de contenidos para el alumnado de 5 años: <a href=\"https://www.symbaloo.com/home/mix/13eOcXMZQi\" title=\"\">https://www.symbaloo.com/home/mix/13eOcXMZQi</a></li>\n<li>Curación de contenidos para el docente: <a href=\"https://padlet.com/carmenps/asamblea-digital-infantil-curacion-de-contenidos-para-docent-nspq2j4hwry6ixsa\" title=\"\">https://padlet.com/carmenps/asamblea-digital-infantil-curacion-de-contenidos-para-docent-nspq2j4hwry6ixsa</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780739506173-6gzqqzam5</odePageId>
+      <odeBlockId>block-1780742917949-dsthkqs2f</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780739506173-6gzqqzam5</odePageId>
+          <odeBlockId>block-1780742917949-dsthkqs2f</odeBlockId>
+          <odeIdeviceId>idevice-1780742917940-6bkw6t3u0</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.symbaloo.com/shared/AAAAAQNivhIAA41-5EZfRA==" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780739506173-6gzqqzam5</odePageId>
+      <odeBlockId>block-1780742977592-cf2axhp0r</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780739506173-6gzqqzam5</odePageId>
+          <odeBlockId>block-1780742977592-cf2axhp0r</odeBlockId>
+          <odeIdeviceId>idevice-1780742977591-foywqg7zw</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/carmenps/asamblea-digital-infantil-curacion-de-contenidos-para-docent-nspq2j4hwry6ixsa" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780739512111-7ma7lfkiy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LÍNEA TEMPORAL</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780739512111-7ma7lfkiy</odePageId>
+      <odeBlockId>block-1780743653821-57oyf66zn</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780739512111-7ma7lfkiy</odePageId>
+          <odeBlockId>block-1780743653821-57oyf66zn</odeBlockId>
+          <odeIdeviceId>idevice-1780743653817-gvzynlx6k</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/carmenps/modulo-7-linea-temporal-p8kg3xyfie7v50le" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780739512111-7ma7lfkiy</odePageId>
+      <odeBlockId>block-1780743715812-psn5oxf2t</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780739512111-7ma7lfkiy</odePageId>
+          <odeBlockId>block-1780743715812-psn5oxf2t</odeBlockId>
+          <odeIdeviceId>idevice-1780743715810-6wek28hot</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta <strong>línea temporal</strong> generada con <strong>Padlet</strong> sirve para de un golpe de vista, anticiparle al alumnado de forma muy visual todos los ejercicios y tareas que vamos a desempeñar para poder <strong>diseñar y crear de manera colaborativa nuestra asamblea digital</strong>.</p>
+<p>Se detallándose en cada paso: </p>
+<ul>
+<li>Organización temporal</li>
+<li>Herramientas digitales</li>
+<li>Agrupamientos</li>
+<li>Recursos técnicos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780743715810-6wek28hot","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta <strong>línea temporal</strong> generada con <strong>Padlet</strong> sirve para de un golpe de vista, anticiparle al alumnado de forma muy visual todos los ejercicios y tareas que vamos a desempeñar para poder <strong>diseñar y crear de manera colaborativa nuestra asamblea digital</strong>.</p>\n<p>Se detallándose en cada paso: </p>\n<ul>\n<li>Organización temporal</li>\n<li>Herramientas digitales</li>\n<li>Agrupamientos</li>\n<li>Recursos técnicos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780764317838-6mwx8ewgp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780764317838-6mwx8ewgp</odePageId>
+      <odeBlockId>block-1780764373852-awevh95ob</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780764317838-6mwx8ewgp</odePageId>
+          <odeBlockId>block-1780764373852-awevh95ob</odeBlockId>
+          <odeIdeviceId>idevice-1780764373847-9llf82fw1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con el fin de garantizar la <strong title="">coherencia pedagógica en el diseño de nuestra "Asamblea Digital"</strong>, se ha realizado una <strong>vinculación directa y sistemática entre las distintas tareas planteadas y los criterios de evaluación</strong> del currículo de Educación Infantil.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780764373847-9llf82fw1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con el fin de garantizar la <strong title=\"\">coherencia pedagógica en el diseño de nuestra \"Asamblea Digital\"</strong>, se ha realizado una <strong>vinculación directa y sistemática entre las distintas tareas planteadas y los criterios de evaluación</strong> del currículo de Educación Infantil.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780764317838-6mwx8ewgp</odePageId>
+      <odeBlockId>block-1780764493832-flhhnrokl</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780764317838-6mwx8ewgp</odePageId>
+          <odeBlockId>block-1780764493832-flhhnrokl</odeBlockId>
+          <odeIdeviceId>idevice-1780764493830-7ge71r0ii</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1itmza-9-Y3Nv6rXnHiPLtZro3KOAqZd49PDDV1ISjfE/edit?usp=sharing" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780739528194-hsnl5cc9x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780739528194-hsnl5cc9x</odePageId>
+      <odeBlockId>block-1780744894144-z5fncobsb</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780739528194-hsnl5cc9x</odePageId>
+          <odeBlockId>block-1780744894144-z5fncobsb</odeBlockId>
+          <odeIdeviceId>idevice-1780744894136-4t41wk50i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> Para recoger las evidencias de aprendizaje de manera óptima y atender a la diversidad del aula, se han seleccionado dos <strong>instrumentos de evaluación complementarios: la escala de observación sistemática</strong>, que aporta la mirada objetiva y técnica de la heteroevaluación docente, y <strong>la diana de autoevaluación guiada</strong>, que promueve la metacognición visual y la autorregulación en los alumnos de 5 años desde un enfoque lúdico.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780744894136-4t41wk50i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> Para recoger las evidencias de aprendizaje de manera óptima y atender a la diversidad del aula, se han seleccionado dos <strong>instrumentos de evaluación complementarios: la escala de observación sistemática</strong>, que aporta la mirada objetiva y técnica de la heteroevaluación docente, y <strong>la diana de autoevaluación guiada</strong>, que promueve la metacognición visual y la autorregulación en los alumnos de 5 años desde un enfoque lúdico.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780739528194-hsnl5cc9x</odePageId>
+      <odeBlockId>block-1780749076998-bkg99x884</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780739528194-hsnl5cc9x</odePageId>
+          <odeBlockId>block-1780749076998-bkg99x884</odeBlockId>
+          <odeIdeviceId>idevice-1780749076997-zliw8a85n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar la asamblea digital con mis alumnos de 5 años, lo ideal es combinar la mirada objetiva que necesitamos registrar como docentes con un formato visual donde ellos puedan participar en su propia evaluación.</p>
+<p>Teniendo en cuenta el enfoque del currículum actual de infantil, <strong>he seleccionado estos dos instrumentos de evaluación: la escala de observación y la diana de autoevaluación.</strong></p>
+<p><strong>Instrumento 1: Escala de Observación Sistemática </strong></p>
+<p>Este es un instrumento de heteroevaluación de uso exclusivo para el docente. En infantil, la observación directa es nuestra herramienta principal. Esta escala permite registrar de forma rápida y estructurada cómo interactúan con la tecnología y cómo se comunican.</p>
+<table border="1" style="width: 100%; border-color: #000000;">
+<tbody>
+<tr style="border-color: #000000;">
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><strong>Indicadores de logro (5 años)</strong></td>
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><strong>Conseguido (C)</strong></td>
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><strong>En Proceso (EP)</strong></td>
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><strong>No Iniciado (NI)</strong></td>
+<td style="width: 19.9792%; border-style: solid; border-color: #000000;"><strong>Observaciones</strong></td>
+</tr>
+<tr style="border-color: #000000;">
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><strong>Autonomía:</strong> Arrastra su foto para pasar lista digital o pulsa los iconos de la asamblea sin necesidad de guía adulta continua.</td>
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><br /></td>
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><br /></td>
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><br /></td>
+<td style="width: 19.9792%; border-style: solid; border-color: #000000;"><br /></td>
+</tr>
+<tr style="border-color: #000000;">
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><strong>Respeto al turno</strong>: Espera a que termine el audio/vídeo del compañero antes de pulsar la pantalla o hablar.</td>
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><br /></td>
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><br /></td>
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><br /></td>
+<td style="width: 19.9792%; border-style: solid; border-color: #000000;"><br /></td>
+</tr>
+<tr style="border-color: #000000;">
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><strong>Uso técnico</strong>: Realiza la presión táctil adecuada sobre la pantalla (el "dedo mágico") cuidando los dispositivos.</td>
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><br /></td>
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><br /></td>
+<td style="width: 19.9731%; border-style: solid; border-color: #000000;"><br /></td>
+<td style="width: 19.9792%; border-style: solid; border-color: #000000;"><br /></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780749076997-zliw8a85n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar la asamblea digital con mis alumnos de 5 años, lo ideal es combinar la mirada objetiva que necesitamos registrar como docentes con un formato visual donde ellos puedan participar en su propia evaluación.</p>\n<p>Teniendo en cuenta el enfoque del currículum actual de infantil, <strong>he seleccionado estos dos instrumentos de evaluación: la escala de observación y la diana de autoevaluación.</strong></p>\n<p><strong>Instrumento 1: Escala de Observación Sistemática </strong></p>\n<p>Este es un instrumento de heteroevaluación de uso exclusivo para el docente. En infantil, la observación directa es nuestra herramienta principal. Esta escala permite registrar de forma rápida y estructurada cómo interactúan con la tecnología y cómo se comunican.</p>\n<table border=\"1\" style=\"width: 100%; border-color: #000000;\">\n<tbody>\n<tr style=\"border-color: #000000;\">\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><strong>Indicadores de logro (5 años)</strong></td>\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><strong>Conseguido (C)</strong></td>\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><strong>En Proceso (EP)</strong></td>\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><strong>No Iniciado (NI)</strong></td>\n<td style=\"width: 19.9792%; border-style: solid; border-color: #000000;\"><strong>Observaciones</strong></td>\n</tr>\n<tr style=\"border-color: #000000;\">\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><strong>Autonomía:</strong> Arrastra su foto para pasar lista digital o pulsa los iconos de la asamblea sin necesidad de guía adulta continua.</td>\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><br /></td>\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><br /></td>\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><br /></td>\n<td style=\"width: 19.9792%; border-style: solid; border-color: #000000;\"><br /></td>\n</tr>\n<tr style=\"border-color: #000000;\">\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><strong>Respeto al turno</strong>: Espera a que termine el audio/vídeo del compañero antes de pulsar la pantalla o hablar.</td>\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><br /></td>\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><br /></td>\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><br /></td>\n<td style=\"width: 19.9792%; border-style: solid; border-color: #000000;\"><br /></td>\n</tr>\n<tr style=\"border-color: #000000;\">\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><strong>Uso técnico</strong>: Realiza la presión táctil adecuada sobre la pantalla (el \"dedo mágico\") cuidando los dispositivos.</td>\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><br /></td>\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><br /></td>\n<td style=\"width: 19.9731%; border-style: solid; border-color: #000000;\"><br /></td>\n<td style=\"width: 19.9792%; border-style: solid; border-color: #000000;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780739528194-hsnl5cc9x</odePageId>
+      <odeBlockId>block-1780746388962-gig1213vf</odeBlockId>
+      <blockName>Diana de autoevaluación digital</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780739528194-hsnl5cc9x</odePageId>
+          <odeBlockId>block-1780746388962-gig1213vf</odeBlockId>
+          <odeIdeviceId>idevice-1780746388960-ewmrcflsw</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780746388960-ewmrcflsw" title="Diana de autoevaluación digital" href="{{context_path}}/content/resources/diana de autoevaluación digital.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/diana de autoevaluación digital.jpg" height="128" width="128" title="Diana de autoevaluación digital" alt="Diana de autoevaluación digital" titlelink="" author="María del Carmen Puertas Sevilla" authorlink="" license="CC0" licenselink="http://creativecommons.org/publicdomain/zero/1.0/deed"/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780746388960-ewmrcflsw","img_0":{"img":"{{context_path}}/content/resources/diana de autoevaluación digital.jpg","thumbnail":"{{context_path}}/content/resources/diana de autoevaluación digital.jpg","title":"Diana de autoevaluación digital","linktitle":"","author":"María del Carmen Puertas Sevilla","linkauthor":"","license":"CC0"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780739556475-786hyrqle</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780739556475-786hyrqle</odePageId>
+      <odeBlockId>block-1780743436116-lk6fx0btt</odeBlockId>
+      <blockName>Genially: asamblea digital</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780739556475-786hyrqle</odePageId>
+          <odeBlockId>block-1780743436116-lk6fx0btt</odeBlockId>
+          <odeIdeviceId>idevice-1780743436111-5ayt8u2yu</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/6a1b253098fc1bb473fb9678" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780739562619-qi7wj1hab</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780739562619-qi7wj1hab</odePageId>
+      <odeBlockId>block-1780748911668-4ux53buuc</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780739562619-qi7wj1hab</odePageId>
+          <odeBlockId>block-1780748911668-4ux53buuc</odeBlockId>
+          <odeIdeviceId>idevice-1780748911667-c0q8cq9t0</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">ASAMBLEA DIGITAL</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Centro de interés o temática: la asamblea.
+
+Nivel al que va dirigido: 5 años.
+
+Temporalización: anual.
+
+Materias implicadas: Área de Crecimiento en Armonía, Área de Descubrimiento y Exploración del Entorno y Área de Lenguajes: Comunicación y Representación.
+
+Idioma: Español.
+
+Descripción general: Creación de una asamblea digital por parte del alumnado de 5 años en un centro de difícil desempeño.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Mª del Carmen Puertas Sevilla</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
